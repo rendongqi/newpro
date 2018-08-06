@@ -7,3 +7,5 @@ understand stage of git.
 
 git different understand added.
 git different understand not added.
+
+Follow excellence , success will chase you .
