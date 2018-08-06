@@ -1,0 +1,1 @@
+stage is inportant concept for understand git.
