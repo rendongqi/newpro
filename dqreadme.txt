@@ -9,3 +9,5 @@ git different understand added.
 git different understand not added.
 
 Follow excellence , success will chase you .
+
+Learning is like rowing upstream ; not to advance is to drop back .
